@@ -1,3 +1,3 @@
 # Documentation
 
-Full documentation is available at https://www.roundthecode.com/react-examples/react-notes-app-uses-event-event-handler-async-event
+Documentation is no longer available, but you are free to explore the code.
